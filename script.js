@@ -1,4 +1,4 @@
-```javascript
+
 // FREE STATIC BOOKING SETUP
 // Add available appointment times to AVAILABLE_SLOTS.
 // Format: "YYYY-MM-DD HH:MM"
@@ -154,4 +154,4 @@ function initBooking() {
 }
 
 document.addEventListener("DOMContentLoaded", initBooking);
-```
+
